@@ -1,6 +1,6 @@
+//11941774, Mathias Spionjak
 import java.util.HashMap;
 import java.util.Map;
-import java.util.concurrent.ThreadLocalRandom;
 
 public class Einstiegsbeispiel {
     public static Map getRepetitions(int[] array){

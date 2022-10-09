@@ -1,10 +1,9 @@
+//11941774, Mathias Spionjak
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
-import org.junit.jupiter.api.function.Executable;
-
 import java.util.HashMap;
 import java.util.Map;
-import static org.junit.jupiter.api.Assertions.*;
+
 
 class EinstiegsbeispielTest {
 
